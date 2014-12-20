@@ -1,0 +1,5 @@
+These are all full, complete systems end - to - end agile friendly systems. Use any of your Drupal, Joomla, Wordpress or standard PHP projects and put them under Infrastructure as Code, Managed Configuration, Tested, Building, Automated Deployment. All the tutorials are under an hour and at the end, you'll have a usable production site, running tests and all the above mentioned Pharaoh goodness, and whenever you commit to master from then on, for a lot of setups you wont need to change anything. It just works. For the quickest results get an account with AWS, Rackspace or Digital Ocean (or other providers as they're added) and go the cloud way.
+
+During the tutorials you can choose to put your site under Continuous Deployment or Efficient Deployment. Efficient delivery as mentioned pretty much means "Continuous until it gets to staging". Continuous Delivery is great, but I'm pretty sure that a lot of businesses won't like the idea that you would be pushing all your code to live without them UAT'ing it. This way, you still get the efficiency of automation but the extra management/business control of giving a nod before going live.
+
+Next 
